@@ -33,6 +33,7 @@
   
   #### Estruturas
   <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/84246094/180622105-6de2c096-27b5-4469-8189-7a0175a0a903.png">
+  <img align="center" height="30" width="40" src="[https://user-images.githubusercontent.com/84246094/180622105-6de2c096-27b5-4469-8189-7a0175a0a903.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FJmmbRi_image-library-stock-file-vue-js-logo-wikimedia%2F&psig=AOvVaw2WQN1SCwKhZ6zOev_uLozR&ust=1701031204616000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCXnpeB4IIDFQAAAAAdAAAAABAE)">
 
   #### Bancos de dados
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
