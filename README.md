@@ -33,7 +33,7 @@
   
   #### Estruturas
   <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/84246094/180622105-6de2c096-27b5-4469-8189-7a0175a0a903.png">
-  <img align="center" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fvue-js-icon%2F&psig=AOvVaw2bpPgRM_UvapzhLpGD5a2f&ust=1701031261678000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCLtLKB4IIDFQAAAAAdAAAAABAE">
+  <img align="center" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png">
 
   #### Bancos de dados
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
