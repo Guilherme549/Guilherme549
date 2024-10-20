@@ -13,11 +13,6 @@
 
 #
 
-<div>
-  <a href="https://github.com/Guilherme549">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme549&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme549&layout=compact&theme=tokyonight"/>
-</div>
 
 #
 
