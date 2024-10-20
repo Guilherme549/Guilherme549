@@ -2,7 +2,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme549&theme=tokyonight)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guilherme549&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guilherme549&theme=tokyonight)
 #
 <!-- Redes Sociais -->
 
