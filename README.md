@@ -1,8 +1,7 @@
 <!-- Saudação -->
 
-<div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+eu+sou+o+Guilherme." alt="Typing SVG" /></a>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme549&theme=tokyonight)
+
 
 #
 <!-- Redes Sociais -->
