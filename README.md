@@ -1,6 +1,18 @@
 <!-- Saudação -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme549&theme=yeblu)
+Hi, i'm graduated in math, full stack developer and nerd.
+
+- :clipboard: Sometimes i write dev articles, usually in brazillian portuguese, at [dev.to/eduardojm](https://dev.to/eduardojm).
+- :mailbox: You can reach me at:
+
+<p>
+    <a href="https://github.com/EduardoJM">
+        <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Guilherme549">
+    </a>
+    <a href="https://www.linkedin.com/in/edujso/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-francisco-6938b91b4/">
+    </a>
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guilherme549&theme=yeblu)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guilherme549&theme=yeblu)
